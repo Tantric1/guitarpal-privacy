@@ -1,0 +1,2 @@
+# guitarpal-privacy
+Privacy Policy
